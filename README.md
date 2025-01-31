@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gruendseba
 - 👀 I’m interested in mecatronics, climbing, cycling
-- 🌱 I’m currently learning a little bit of C
+- 🌱 I’m currently learning a little bit of C and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
